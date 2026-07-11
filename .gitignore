@@ -10,11 +10,13 @@ __pycache__/
 frontend/node_modules/
 frontend/.vite/
 frontend/dist/
+node_modules/
+dist/
+package-lock.json
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
 
 # OS
 .DS_Store
-
-# Logs
-npm-debug.log*
-yarn-debug.log*
-pnpm-debug.log*
+config.bat
